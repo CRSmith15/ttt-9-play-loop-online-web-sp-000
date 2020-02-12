@@ -37,7 +37,8 @@ end
 
 def play(board)
   counter = 0
-  loop do turn(board)
+  loop do 
+    turn
   
   
 end
